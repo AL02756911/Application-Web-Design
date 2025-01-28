@@ -3,7 +3,6 @@
 - **Name:** <u>Axel Bernardo Lopez Suarez</u>
 - **Registration Number:** <u>AL02756911</u>
 - **Degree:** <u>IDS</u>
-- 
 ---
 
 # Subject Information  
